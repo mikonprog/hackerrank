@@ -36,6 +36,10 @@ Use this data as input to test the application through the exposed APIs
 
 ## Running the application
 
+Compile application locally through maven on terminal:
+```
+mvn clean install
+```
 Run Spring Boot Application and go to :
 
 ```
