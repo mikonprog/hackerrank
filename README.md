@@ -42,7 +42,7 @@ Run Spring Boot Application and go to :
 http://localhost:8080/swagger-ui.html
 ```
 
-On the Transaction Controller:
+On the Transaction Controller there are three endpoints:
 
 * Credit money from one account to another
 * Retreive transactions history for and account
@@ -50,10 +50,7 @@ On the Transaction Controller:
 
 Use the predefined accounts' information to test the APIs
 
-### Break down into end to end tests
+### End to end tests
 
-Explain what these tests test and why
+Integration tests cover the basic cases of success and failure of the above functionality
 
-```
-Give an example
-```
