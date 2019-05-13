@@ -1,4 +1,4 @@
-# Interview Assignment 
+# Test Assignment 
 
 Simple banking money transaction application
 
