@@ -18,7 +18,7 @@ MySQL 5.7 or higher
 
 Download or Clone project from GitHub 
 
-Open preferably on an IDEA.
+Open preferably on an IDEA
 
 ```
 Give the example
@@ -32,7 +32,7 @@ There are two predefined accounts stored in a local database when starting the a
 |       2       |    13902143    |  12000  |
 ```
 
-Use this data as input to test the application through the exposed APIs.
+Use this data as input to test the application through the exposed APIs
 
 ## Running the application
 
@@ -48,7 +48,7 @@ On the Transaction Controller there are three endpoints:
 * Retreive transactions history for and account
 * Retreive all transactions peerformed
 
-Use the predefined accounts' information to test the APIs
+Use Swagger UI Console to subscribe and test the APIs using the predefined accounts' information
 
 ### End to end tests
 
