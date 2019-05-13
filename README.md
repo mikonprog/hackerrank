@@ -49,6 +49,8 @@ On the Transaction Controller there are three endpoints:
 * Retrieve transactions history for and account
 * Retrieve all transactions peerformed
 
+![Screenshot](swagger-try-it.png)
+
 ### End to end tests
 
 Integration tests cover the basic cases of success and failure of the above functionality
