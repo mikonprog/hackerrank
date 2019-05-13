@@ -23,15 +23,16 @@ Open preferrably on an IDEA.
 ```
 Give the example
 ```
-There are two predefined Account stored in the local database when starting the application :
+There are two predefined accounts stored in a local database when starting the application :
 
 ```
 | account_id    | account_number | balance | 
 | ------------- | -------------  |-------- |
 |       1       |    18395627    |  25000  | 
 |       2       |    13902143    |  12000  |
-
 ```
+
+Use this data as input to test the application through the exposed APIs.
 
 ## Running the application
 
@@ -41,6 +42,12 @@ Run Spring Boot Application and go to :
 http://localhost:8080/swagger-ui.html
 
 ```
+
+On the Transaction Controller:
+
+* Credit money from one account to another
+* Retreive transactions history for and account
+* Retreive all transactions peerformed
 
 
 ## Running the tests
