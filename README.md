@@ -40,7 +40,6 @@ Run Spring Boot Application and go to :
 
 ```
 http://localhost:8080/swagger-ui.html
-
 ```
 
 On the Transaction Controller:
@@ -49,10 +48,7 @@ On the Transaction Controller:
 * Retreive transactions history for and account
 * Retreive all transactions peerformed
 
-
-## Running the tests
-
-Explain how to run the automated tests for this system
+Use the predefined accounts' information to test the APIs
 
 ### Break down into end to end tests
 
