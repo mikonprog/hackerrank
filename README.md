@@ -49,7 +49,13 @@ On the Transaction Controller there are three endpoints:
 * Retrieve transactions history for and account
 * Retrieve all transactions peerformed
 
+Try the APIs by pressing Try It Out button as displayed on the screenshot below:
+
 ![Screenshot](swagger-try-it.png)
+
+Execute the API call after filling all required parameters by pressing Execute button:
+
+![Screenshot](swagger-execute.png)
 
 ### End to end tests
 
