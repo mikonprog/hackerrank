@@ -16,13 +16,8 @@ MySQL 5.7 or higher
 
 ### Installing
 
-Download or Clone project from GitHub 
+Download or Clone project from GitHub. Open preferably on an IDEA
 
-Open preferably on an IDEA
-
-```
-Give the example
-```
 There are two predefined accounts stored in a local database when starting the application :
 
 ```
@@ -46,13 +41,13 @@ Run Spring Boot Application and go to :
 http://localhost:8080/swagger-ui.html
 ```
 
+Use Swagger UI console to subscribe and test the APIs using the predefined accounts' information
+
 On the Transaction Controller there are three endpoints:
 
 * Credit money from one account to another
-* Retreive transactions history for and account
-* Retreive all transactions peerformed
-
-Use Swagger UI Console to subscribe and test the APIs using the predefined accounts' information
+* Retrieve transactions history for and account
+* Retrieve all transactions peerformed
 
 ### End to end tests
 
