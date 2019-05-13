@@ -18,7 +18,7 @@ MySql 5.7 or higher
 
 Download or Clone project from GitHub 
 
-Open preferrably on an IDEA.
+Open preferably on an IDEA.
 
 ```
 Give the example
